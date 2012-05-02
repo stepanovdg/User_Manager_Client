@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">User manager</string>
+	<string name="editHint">Input user id</string>
+	<string name="start_button">Find user</string>
+	<string name="result">Search result</string>
+    
+</resources>
